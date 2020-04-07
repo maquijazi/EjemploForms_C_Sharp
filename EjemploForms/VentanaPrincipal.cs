@@ -24,7 +24,7 @@ namespace EjemploForms
             Application.Exit();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void botonVentana01(object sender, EventArgs e)
         {
             Ventana01 ventana = new Ventana01();
             ventana.Show();
